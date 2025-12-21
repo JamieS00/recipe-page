@@ -24,3 +24,10 @@ body {
 h2 {
   color: hsl(14, 45%, 36%);
 }
+.Nutrition p {
+  display: flex;
+  justify-content: space-between;
+}
+.Nutrition p strong {
+  color: hsl(14, 45%, 36%);
+}
