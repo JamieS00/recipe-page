@@ -1,5 +1,6 @@
 body {
   background-color: hsl(30, 54%, 90%);
+  font-family: "Outfit";
 }
 .container {
   border: 1px solid white;
@@ -8,6 +9,10 @@ body {
   margin: 0 auto;
   max-width: 600px;
   background-color: white;
+}
+h1,
+h2 {
+  font-family: "Young Serif";
 }
 
 .prep-time {
