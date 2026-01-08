@@ -18,6 +18,10 @@ p,
 li {
   font-size: 16px;
 }
+ul {
+  list-style-position: inside;
+  padding-left: 1;
+}
 
 .prep-time {
   border-radius: 1px solid black;
