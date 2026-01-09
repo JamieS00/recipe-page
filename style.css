@@ -38,9 +38,14 @@ h2 {
   color: hsl(14, 45%, 36%);
 }
 
-.Nutrition p {
+/* .Nutrition p {
   display: flex;
   justify-content: space-between;
+} */
+
+.Nutrition p {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
 }
 .Nutrition p strong {
   color: hsl(14, 45%, 36%);
